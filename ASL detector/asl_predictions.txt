@@ -1,0 +1,24 @@
+
+2025-11-26T16:26:07 | Camera 0 | Prediction: H | Confidence: 0.582
+2025-11-26T16:26:13 | Camera 0 | Prediction: E | Confidence: 0.442
+2025-11-26T16:26:17 | Camera 0 | Prediction: L | Confidence: 0.525
+2025-11-26T16:26:18 | Camera 0 | Prediction: L | Confidence: 0.531
+2025-11-26T16:26:21 | Camera 0 | Prediction: O | Confidence: 0.455
+2025-11-26T16:26:32 | Camera 0 | Prediction: M | Confidence: 0.593
+2025-11-26T16:26:38 | Camera 0 | Prediction: Y | Confidence: 0.739
+2025-11-26T16:26:43 | Camera 0 | Prediction: N | Confidence: 0.815
+2025-11-26T16:26:53 | Camera 0 | Prediction: A | Confidence: 0.451
+2025-11-26T16:27:04 | Camera 0 | Prediction: M | Confidence: 0.598
+2025-11-26T16:27:18 | Camera 0 | Prediction: E | Confidence: 0.735
+2025-11-26T16:27:24 | Camera 0 | Prediction: I | Confidence: 0.474
+2025-11-26T16:29:05 | Camera 0 | Prediction: E | Confidence: 0.453
+2025-11-26T16:29:11 | Camera 0 | Prediction: T | Confidence: 0.630
+2025-11-26T16:29:14 | Camera 0 | Prediction: H | Confidence: 0.454
+2025-11-26T16:29:18 | Camera 0 | Prediction: A | Confidence: 0.673
+2025-11-26T16:29:21 | Camera 0 | Prediction: N | Confidence: 0.434
+
+2025-11-26T16:34:57 | Camera 0 | Prediction: E | Confidence: 0.883
+2025-11-28T17:14:49 | Camera 0 | Prediction: V | Confidence: 0.566
+2025-11-28T17:14:51 | Camera 0 | Prediction: V | Confidence: 0.556
+2025-11-28T17:14:52 | Camera 0 | Prediction: V | Confidence: 0.545
+2025-11-28T17:14:52 | Camera 0 | Prediction: V | Confidence: 0.524
